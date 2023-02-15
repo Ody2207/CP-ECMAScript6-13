@@ -1,0 +1,23 @@
+{
+  "name": "cp-ecmascript6-13",
+  "version": "1.0.0",
+  "description": "In this course I learned all the ECMAScript version from version 6 to 13.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ody2207/CP-ECMAScript6-13.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Rodrigo Espinosa <roes2207@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ody2207/CP-ECMAScript6-13/issues"
+  },
+  "homepage": "https://github.com/Ody2207/CP-ECMAScript6-13#readme"
+}
