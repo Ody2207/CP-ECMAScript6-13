@@ -1,6 +1,6 @@
 const anotherFuction = () => {
 	return new Promise((resolve, reject) => {
-		if (false) {
+		if (true) {
 			resolve('hey!');
 		} else {
 			reject('Uhhh!');
