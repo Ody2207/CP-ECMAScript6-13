@@ -16,6 +16,7 @@
   ],
   "author": "Rodrigo Espinosa <roes2207@gmail.com>",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Ody2207/CP-ECMAScript6-13/issues"
   },
