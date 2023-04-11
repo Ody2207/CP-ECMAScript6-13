@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Ody2207/CP-ECMAScript6-13/issues"
   },
-  "homepage": "https://github.com/Ody2207/CP-ECMAScript6-13#readme"
+  "homepage": "https://github.com/Ody2207/CP-ECMAScript6-13#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
